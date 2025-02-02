@@ -1,2 +1,6 @@
 # BlackLotus
-BlackLotus bootkit sample
+
+> [!WARNING]
+> This is a malware sample
+
+BlackLotus UEFI bootkit tracked by CVE-2023-24932.
